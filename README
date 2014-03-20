@@ -1,0 +1,5 @@
+The Simple Captcha Creator
+
+This simple GUI-based utility creates a captcha based on the text you enter and saves it to a file named the same as the text you enter, so easy to use, and kind of entertaining.
+
+It's made in C++ using the Qt Library and Qt Creator.
